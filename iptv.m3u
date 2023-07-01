@@ -2,11 +2,11 @@
 #EXTINF:-1 ,====== CCTV(移动传媒),微信关注公众号：钰郎哥
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 #EXTINF:-1 ,汕头经济
-http://183.238.66.1:9090/live/shantouertaogaoqing_4500.m3u8?t=UdTD0jYXSdRWpgOApgnyFA==&u=18956210860&p=&pid=&cid=1332&d=ce5ac35fef77bbef&sid=CILBOOEksaR4ZBdNk3DM4g==&r=20230701183812&e=20230702003817&nc=WjUsFESCvkTT&a=7&v=2&isSuma=1&hlsSessionID=17024452686061542261&srchost=172.16.149.181:8060&gid=Phv7XvIeyChTlKOZpVFj1Q%3D%3D
+http://60.208.16.27:1505/gudou.php?id=shantouertaogaoqing_4500
 #EXTINF:-1 ,汕头文旅
-http://183.238.66.1:9090/live/2508_4500.m3u8?t=UdTD0jYXSdRWpgOApgnyFA==&u=18956210860&p=&pid=&cid=1332&d=ce5ac35fef77bbef&sid=NoizXX26yCRb76iDSyyIvw==&r=20230701183939&e=20230702003944&nc=YvleWSd00WP0&a=7&v=2&isSuma=1&hlsSessionID=8739236746583382675&srchost=172.16.149.181:8060&gid=SipJLg8HGqztrR8Q2JzHUw%3D%3D
+http://88888.55555.io:2345/udp/239.77.1.132:5146
 #EXTINF:-1 ,汕头综合
-http://183.238.66.1:9090/live/shantouyitaogaoqing_4500.m3u8?t=UdTD0jYXSdRWpgOApgnyFA==&u=18956210860&p=&pid=&cid=1332&d=ce5ac35fef77bbef&sid=WNGeSXfTvNC2sDx6PXSi3A==&r=20230701184036&e=20230702004041&nc=OUlrfaKFnEfr&a=7&v=2&isSuma=1&hlsSessionID=8739236746583384105&srchost=172.16.149.181:8060&gid=6iiVuK3EGgBePFqWbKMzHQ%3D%3D
+http://60.208.16.27:1505/gudou.php?id=shantouyitaogaoqing_4500
 #EXTINF:-1 ,林正英
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
 #EXTINF:-1 ,电影-林正英
