@@ -152,45 +152,45 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png",山东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/1.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视   
-https://cntv.sbs/live?auth=2307100804&id=hnws
+http://cyz32.livehbindex.hbcatv.cn/live/500000201d7c47a8b9b127d69fb816ac.m3u8?bitrate=2300&pt=5
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视 
 http://111.40.196.32:443/PLTV/88888888/224/3221225654/1.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东卫视   
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226216/1.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",深圳卫视   
-https://cntv.sbs/live?auth=2307100804&id=szws
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226688/1.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png",四川卫视   
 http://221.213.43.82:8888/newlive/live/hls/32/live.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png",贵州卫视
 http://221.213.43.82:8888/newlive/live/hls/29/live.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png",云南卫视   
-https://cntv.sbs/live?auth=2307100804&id=ynws
+http://221.213.43.82:8888/newlive/live/hls/27/live.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png",陕西卫视   
 http://cyz32.livehbindex.hbcatv.cn/live/5000002019984c0fa29ae0d57380da3a.m3u8?bitrate=2300&pt=5
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃卫视
-https://cntv.sbs/live?auth=2307100804&id=gsws
+http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙古卫视
-https://cntv.sbs/live?auth=2307100804&id=nmws
+http://221.213.43.82:8888/newlive/live/hls/49/live.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视   
-https://cntv.sbs/live?auth=2307100804&id=zjws
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8?k
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",江苏卫视   
 http://221.2.36.34:8888/newlive/live/hls/22/live.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png",山东卫视
-https://cntv.sbs/live?auth=2307100804&id=sdws
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png",山西卫视 
 http://221.213.43.82:8888/newlive/live/hls/48/live.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png",广西卫视
-https://cntv.sbs/live?auth=2307100804&id=gxws
+http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png",西藏卫视 
 http://221.213.43.82:8888/newlive/live/hls/37/live.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png",宁夏卫视
-https://cntv.sbs/live?auth=2307100804&id=nxws
+http://221.213.43.82:8888/newlive/live/hls/40/live.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png",新疆卫视
 http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视
-https://cntv.sbs/live?auth=2307100804&id=jlws
+http://221.213.43.82:8888/newlive/live/hls/35/live.m3u8
 #EXTINF:-1 ,苏州4k超清
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 ,老剧超清修复
@@ -247,9 +247,3 @@ https://hw.flv.huya.com/huyalive/1199561277686-1199561277686-5434860644379656192
 https://al.flv.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.flv?wsSecret=deb18ad24449adf89615c1eb76af47cd&wsTime=64a1803b&seqid=3154008110600&ctype=tars_mobile&ver=1&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_2000,&t=103&ratio=2000&uid=1465788781364&uuid=3056785777&t=103&sv=2110211124
 #EXTINF:-1 ,第一财经
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8
-#EXTINF:-1 ,点掌财经
-http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 ,东方财经
-https://cntv.sbs/live?auth=2307100804&id=dfcj
-#EXTINF:-1 ,财富天下
-https://cntv.sbs/live?auth=2307100804&id=cftx
